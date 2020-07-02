@@ -1,0 +1,38 @@
+// Header
+.header {
+  background: rgb(254,100,50);
+  background: linear-gradient(0deg, rgba(254,100,50,1) 0%, rgba(246,68,46,1) 100%);
+  font-weight: 500;
+}
+// Navbar
+.header-nav {
+  width: 100%;
+  padding: .5rem 1rem !important;
+  background: transparent;
+}
+nav.navi {
+  background: transparent;
+}
+.header-nav a:hover {
+  color: #ece3e3;
+}
+.header-nav a, span {
+  color: #ffffff;
+}
+// 
+.header-nav .nav-link {
+  padding: 0;
+}
+// 
+.header-nav ul.navbar-nav:nth-child(1) li.nav-item:nth-child(2) {
+  border-left: 2px solid #ffffff42;
+  border-right: 2px solid #ffffff42;
+}
+// span nav-link: fb, instagram
+span.nav-link a {
+  margin-left: 5px;
+}
+ 
+.header-nav ul.navbar-nav:nth-child(2) li.nav-item:nth-child(4) {
+  border-left: 2px solid #ffffff42;
+}
