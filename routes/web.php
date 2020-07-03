@@ -18,8 +18,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/hello', function () {
-    return 'Hello';
+Route::get('/Admin', function () {
+    return view('administrator.layouts.layout');
 });
 Auth::routes();
 

@@ -1,3 +1,0 @@
-<aside>
-  SideBar
-</aside>
