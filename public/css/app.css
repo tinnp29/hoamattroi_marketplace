@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
+@charset "UTF-8";
 
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
@@ -3042,48 +3042,6 @@
   margin: 0;
   overflow: visible;
   clip: auto;
-}
-
-.header {
-  background: #fe6432;
-  background: linear-gradient(0deg, #fe6432 0%, #f6442e 100%);
-  font-weight: 500;
-}
-
-.header-nav {
-  width: 100%;
-  padding: 0.5rem 1rem !important;
-  background: transparent;
-}
-
-nav.navi {
-  background: transparent;
-}
-
-.header-nav a:hover {
-  color: #ece3e3;
-}
-
-.header-nav a,
-span {
-  color: #ffffff;
-}
-
-.header-nav .nav-link {
-  padding: 0;
-}
-
-.header-nav ul.navbar-nav:nth-child(1) li.nav-item:nth-child(2) {
-  border-left: 2px solid #ffffff42;
-  border-right: 2px solid #ffffff42;
-}
-
-span.nav-link a {
-  margin-left: 5px;
-}
-
-.header-nav ul.navbar-nav:nth-child(2) li.nav-item:nth-child(4) {
-  border-left: 2px solid #ffffff42;
 }
 
 /*!

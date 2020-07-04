@@ -3,7 +3,7 @@
 @section('title', 'Page Title')
 
 @section('content')
-    <article>
+    {{-- <article>
         <p>This is my body content.</p>
-    </article>
+    </article> --}}
 @endsection
